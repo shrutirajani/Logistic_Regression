@@ -1,5 +1,5 @@
 ---
-title: "ShrutiR_HW2_R"
+title: "ShrutiR"
 author: "Rajani, Shruti"
 date: "11/5/2018"
 output: html_document
